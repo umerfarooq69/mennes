@@ -1,0 +1,61 @@
+section.sec-content-privacy {
+  padding: 40px 0px;
+}
+section.sec-content-privacy .largWord {
+  word-break: break-all;
+  color: #222 !important;
+}
+section.sec-content-privacy .left-content {
+  position: relative;
+}
+section.sec-content-privacy .left-content p {
+  font-weight: 600;
+  color: #222;
+  font-size: 20px;
+  width: 70%;
+}
+section.sec-content-privacy .left-content > span {
+  font-weight: 700;
+  font-size: 18px;
+  background: -webkit-linear-gradient(150deg, #fe8501, #e11e09);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+section.sec-content-privacy .right-content {
+  position: relative;
+  margin-bottom: 40px;
+}
+section.sec-content-privacy .right-content .mb0 {
+  margin-bottom: 5px;
+}
+section.sec-content-privacy .right-content ul {
+  margin-bottom: 15px;
+}
+section.sec-content-privacy .right-content ul li p {
+  margin-bottom: 5px;
+  font-size: 14px;
+  color: #525252;
+}
+section.sec-content-privacy .right-content > p {
+  margin-bottom: 20px;
+  line-height: 24px;
+  width: 90%;
+  color: #525252;
+  font-size: 14px;
+}
+section.sec-content-privacy .right-content > p.subPera {
+  padding-left: 50px;
+}
+section.sec-content-privacy .right-content > p > span {
+  background: -webkit-linear-gradient(150deg, #fe8501, #e11e09);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+section.sec-content-privacy .right-content > span {
+  font-weight: 700;
+  font-size: 18px;
+  background: -webkit-linear-gradient(150deg, #fe8501, #e11e09);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+/*# sourceMappingURL=terms.css.map */
